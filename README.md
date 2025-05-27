@@ -1,6 +1,10 @@
+[ZH 中文版 README](README.zh.md)
+
 # Lazy Reader
 
 Lazy Reader is a web-based speed reading tool designed exclusively for Chinese text, helping users read efficiently by displaying words one at a time. Built with SvelteKit, TypeScript, and pure CSS, it offers a clean, responsive interface optimized for both desktop and mobile devices, ideal for reading Chinese articles, study materials, or literature.
+
+[Click me for DEMO](https://michaelc285.github.io/lazy-reader/)
 
 ## Features
 
