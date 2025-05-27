@@ -48,3 +48,8 @@ Build the project:
 ```bash
 pnpm build
 ```
+
+Deploy:
+```bash
+pnpm run deploy
+```
